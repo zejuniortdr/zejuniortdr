@@ -9,6 +9,7 @@
 - 🇧🇷 Living in Ribeirão Preto/SP, Brazil
 - ⚡ Fun fact: Traveler, Gamer, Lover of series, books and bike
 - 🌱 I’m currently learning about AI and Data Science
+- Author of [*Desbravando Rust: Um guia prático para pythonistas explorarem novos horizontes*](https://desbravandorust.com.br/)
 
   
 
