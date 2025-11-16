@@ -1,27 +1,91 @@
-<h1  align="center">Hi there 👋, I'm Luis Jr!</h1>
+# José Luis da Cruz Junior
 
-  
+**Senior Software Engineer** | Backend Specialist | Cloud & DevOps
 
-<h3  align="center">Back-end web developer, bachelor's degree in computer science, postgraduate degree in web development and passionate about technology</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jose-luis-da-cruz-junior/)
 
-  
+## Professional Summary
 
-- 🇧🇷 Living in Ribeirão Preto/SP, Brazil
-- ⚡ Fun fact: Traveler, Gamer, Lover of series, books and bike
-- 🌱 I’m currently learning about AI and Data Science
-- Author of [*Desbravando Rust: Um guia prático para pythonistas explorarem novos horizontes*](https://desbravandorust.com.br/)
+Senior Software Engineer with 22+ years of experience in web development, specializing in backend systems and distributed architectures. Proven track record in building scalable, maintainable solutions using modern technologies and industry best practices.
 
-  
+Core competencies include Rust and Python ecosystems, cloud infrastructure design, observability implementation, and DevOps practices.
 
-<h3  align="left">Languages and Tools:</h3>
+## Technical Expertise
 
-<p  align="left">  <a  href="https://www.python.org"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  alt="python"  width="40"  height="40"/>  </a>  <a  href="https://www.djangoproject.com/"  target="_blank"  rel="noreferrer">  <img  src="https://cdn.worldvectorlogo.com/logos/django.svg"  alt="django"  width="40"  height="40"/>  </a>  <a  href="https://www.docker.com/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  alt="docker"  width="40"  height="40"/>  </a>  <a  href="https://git-scm.com/"  target="_blank"  rel="noreferrer">  <img  src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"  alt="git"  width="40"  height="40"/>  </a>    <a  href="https://pandas.pydata.org/"  target="_blank"  rel="noreferrer">  <img  src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"  alt="pandas"  width="40"  height="40"/>  </a> 
-<a  href="https://numpy.org/"  target="_blank"  rel="noreferrer">  <img  src="https://numpy.org/images/logo.svg"  alt="numpy"  width="40"  height="40"/>  </a> </p>
-  
+### Programming Languages
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<h3  align="left">Connect with me:</h3>
+### Frameworks & Tools
+![Axum](https://img.shields.io/badge/Axum-000000?style=flat&logo=rust&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-<p  align="left">
 
-<a  href="https://br.linkedin.com/in/jose-luis-da-cruz-junior/"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="joao-pedro-fiorelli"  height="30"  width="40"  /></a>
-</p>
+### Backend Development
+- **Frameworks**: Axum, Tokio, FastAPI, Django
+- **Databases**: PostgreSQL, sqlx
+- **API Design**: REST, microservices architecture
+
+### DevOps & Infrastructure
+- **Containerization**: Docker, Kubernetes
+- **Cloud Platform**: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- **CI/CD**: GitHub Actions, automated deployment pipelines
+- **Infrastructure as Code**: Terraform, configuration management
+
+### Observability & Monitoring
+- OpenTelemetry instrumentation
+- Prometheus metrics collection
+- Grafana dashboards and visualization
+- Loki log aggregation
+- Tempo distributed tracing
+
+### Software Engineering Practices
+- Test-Driven Development (TDD)
+- Continuous Integration/Continuous Deployment
+- Distributed systems design
+- Performance optimization
+- Code review and mentorship
+
+## Publications
+
+### Author: "Desbravando Rust"
+
+Comprehensive technical guide for Python developers transitioning to Rust. Published and available at [desbravandorust.com.br](https://desbravandorust.com.br).
+
+**Key Topics Covered:**
+- Memory management: ownership, borrowing, and lifetimes
+- Performance optimization and safety features
+- Practical applications: REST APIs with Axum framework
+- Real-world examples: file processing, scheduling APIs, TOTP authentication
+- AWS Lambda integration
+
+The book demonstrates Rust's performance advantages through practical, hands-on examples suitable for production environments.
+
+## Featured Projects
+
+### Desbravando Rust
+**Repository**: [desbravandorust.com.br](https://desbravandorust.com.br)
+
+Comprehensive learning resource and reference implementation for the technical book.
+
+- **Technologies**: Rust ecosystem, multiple crates and design patterns
+- **Scope**: Progressive examples from fundamentals to production-ready applications
+- **Applications**: REST APIs, authentication systems, cloud functions
+
+## Current Professional Focus
+
+- Advanced Rust patterns and asynchronous programming
+- Distributed systems observability and monitoring
+- Cloud infrastructure optimization and cost management
+- Technical writing and knowledge sharing
+- Open-source contributions
+
+## Contact Information
+
+- **LinkedIn**: [jose-luis-da-cruz-junior](https://www.linkedin.com/in/jose-luis-da-cruz-junior/)
+- **Email**: zejuniortdr@gmail.com
